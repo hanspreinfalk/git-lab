@@ -10,6 +10,9 @@ It includes exercises on branching, merging, commits, and repository management.
 - Working with remote repositories
 - Handling conflicts
 
+### Images
+![Github image](/GitHub__headpic.webp)
+
 ## References
 - [GitHub Documentation](https://docs.github.com/en)
 - [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
