@@ -14,7 +14,7 @@ It includes exercises on branching, merging, commits, and repository management.
 ![Github image](/GitHub__headpic.webp)
 
  ### Code Examples
-  Here is a simple Python program that adds two numbers:
+Here is a simple Python program that adds two numbers:
 
 ```python
 def add_numbers(a, b):
