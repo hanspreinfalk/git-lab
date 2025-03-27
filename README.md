@@ -13,6 +13,19 @@ It includes exercises on branching, merging, commits, and repository management.
 ### Images
 ![Github image](/GitHub__headpic.webp)
 
+ ### Code Examples
+  Here is a simple Python program that adds two numbers:
+
+```python
+def add_numbers(a, b):
+      return a + b
+
+num1 = 5
+num2 = 7
+result = add_numbers(num1, num2)
+print("The sum is:", result)
+```
+
 ## References
 - [GitHub Documentation](https://docs.github.com/en)
 - [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
