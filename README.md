@@ -26,6 +26,12 @@ result = add_numbers(num1, num2)
 print("The sum is:", result)
 ```
 
+### Lists
+
+1. Turn on GitHub Pages
+2. Outline my portfolio
+3. Introduce myself to the world
+
 ## References
 - [GitHub Documentation](https://docs.github.com/en)
 - [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
